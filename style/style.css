@@ -277,6 +277,8 @@ header{
     color:  #ff5959;
     text-align: center;
     padding: 30px;
+    font-family: 'Lobster';
+    font-style: italic;
 }
 .footer-sub-title{
     text-align: center;
